@@ -1,5 +1,8 @@
 ## Hi there 👋
-"I'm Julien – a web developer 👨‍💻 with a passion for clean, responsive, and user-centered design 🎨. Recently graduated from O’clock's full stack program 🚀, I'm fully immersed in building my skills, from crafting front-end interfaces with React ⚛️ and Tailwind 🌈 to developing back-end APIs with Node.js 🌐. Always up for new challenges and opportunities to grow 💡, both in code and beyond!"
+"I'm Julien
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-%23brightgreen?style=for-the-badge&logo=linkedin)
+
+I'm a web developer 👨‍💻 with a passion for clean, responsive, and user-centered design 🎨. Recently graduated from O’clock's full stack program 🚀, I'm fully immersed in building my skills, from crafting front-end interfaces with React ⚛️ and Tailwind 🌈 to developing back-end APIs with Node.js 🌐. Always up for new challenges and opportunities to grow 💡, both in code and beyond!"
 ### 🛠️ My Tech Stack
 
 | Frontend       | Backend       | Database       | Tools         |
