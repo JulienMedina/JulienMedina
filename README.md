@@ -1,9 +1,5 @@
 ## Hi there 👋
-"I'm Julien
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-%23brightgreen?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/julien-m-269497236/)
-
-
-I'm a web developer 👨‍💻 with a passion for clean, responsive, and user-centered design 🎨. Recently graduated from O’clock's full stack program 🚀, I'm fully immersed in building my skills, from crafting front-end interfaces with React ⚛️ and Tailwind 🌈 to developing back-end APIs with Node.js 🌐. Always up for new challenges and opportunities to grow 💡, both in code and beyond!"
+"I'm Julien - a web developer 👨‍💻 with a passion for clean, responsive, and user-centered design 🎨. Recently graduated from O’clock's full stack program 🚀, I'm fully immersed in building my skills, from crafting front-end interfaces with React ⚛️ and Tailwind 🌈 to developing back-end APIs with Node.js 🌐. Always up for new challenges and opportunities to grow 💡, both in code and beyond!"
 
 
 ### 🛠️ My Tech Stack
@@ -17,5 +13,6 @@ I'm a web developer 👨‍💻 with a passion for clean, responsive, and user-c
 | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge) | | | ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge) |
 
 📫 **Contact** : julien.medina16@gmail.com
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-%23brightgreen?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/julien-m-269497236/)
 
 
