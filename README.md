@@ -13,6 +13,7 @@
 | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge) | | | ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge) |
 
 📫 **Contact** : julien.medina16@gmail.com
+
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-%23brightgreen?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/julien-m-269497236/)
 
 
